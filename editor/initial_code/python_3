@@ -1,1 +1,16 @@
-{{CODIGO INICIAL}}
+def contagem_progressiva(n):
+    # escreva seu código aqui
+    return 0
+
+
+print("Example:")
+print(contagem_progressiva(5))
+
+# As funções assert são utilizadas para verificar se o resultado da função chamada é o esperado
+assert contagem_progressiva(3) == [1, 2, 3]
+
+assert contagem_progressiva(7) == [1, 2, 3, 4, 5, 6, 7]
+
+assert contagem_progressiva(1) == [1]
+
+print("Seu código passou pelos testes, clique em Check para avançar!")
